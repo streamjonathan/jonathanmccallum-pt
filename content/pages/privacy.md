@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Este site não é para pessoas com menos de 18 anos. Fala sobre a fé em Jesus, e isso é conteúdo religioso, por isso é escrito para adultos. Se tem menos de 18 anos, por favor não partilhe informações pessoais aqui, e não escreva a Jonathan.
+
+Em Espanha, a lei diz que uma criança com menos de 14 anos precisa do consentimento de um dos pais ou tutor antes de partilhar dados pessoais online. A regra deste site é mais rigorosa: com menos de 18 anos, este site não é para si.
 
 ## Changes
 
