@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Privacidade
 
-Este site é gerido por Jonathan McCallum, que vive em Getaria, Espanha. É um site pessoal e pequeno: textos, e um chat que responde a partir desses textos. Não há contas para criar, não há rastreamento, não há publicidade, e não há nada à venda. Segue a lei europeia de privacidade (RGPD) para todos os visitantes, estejam onde estiverem.
+Este site é gerido por Jonathan McCallum, que vive no País Basco. É um site pessoal e pequeno: textos, e um chat que responde a partir desses textos. Não há contas para criar, não há rastreamento, não há publicidade, e não há nada à venda. Segue a lei europeia de privacidade (RGPD) para todos os visitantes, estejam onde estiverem.
 
 Se precisar de perguntar alguma coisa sobre esta página, ou sobre os seus dados pessoais, escreva a Jonathan em <a href="#" data-contact-email data-contact-email-text>Envie-me um e-mail</a>. Também pode enviar-lhe uma mensagem no [Instagram](https://www.instagram.com/jonamccallum) ou no [Threads](https://www.threads.com/@jonamccallum).
 
